@@ -1,6 +1,6 @@
 # ¡Hola! Soy Esteban Uriana 👋
 
- Estudiante de Ingeniería en Informática | Técnico en Radiofrecuencia | Desarrollador de Software
+ Estudiante de Ingeniería en Informática | Desarrollador de Software
 
 Apasionado por el desarrollo de software, la arquitectura de código y el diseño de herramientas útiles. Me gusta crear aplicaciones limpias, funcionales y con impacto real.
 
