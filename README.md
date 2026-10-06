@@ -36,7 +36,7 @@ Apasionado por el desarrollo de software, la arquitectura de código y el diseñ
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Steven78-ux&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=Steven78-ux&layout=compact&theme=tokyonight&hide=html,css" alt="Lenguajes más usados" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=Steven78-ux&layout=compact&theme=tokyonight&hide=html,css" 
 </p>
 
 ---
