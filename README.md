@@ -54,6 +54,5 @@ Actualmente estoy disponible para proyectos freelance. Puedo ayudarte con:
 
 📫 **¿Dónde me encuentras?**
 - **GitHub:** [@Steven78-ux](https://github.com/Steven78-ux)
-- **LinkedIn:** [Tu Nombre / Perfil] *(Añade tu enlace aquí, es vital para los clientes)*
-- **Email:** [tu-correo@ejemplo.com] *(Añade tu correo)*
-- **Fiverr / Upwork:** [Enlace a tu perfil] *(Si creas uno)*
+
+
